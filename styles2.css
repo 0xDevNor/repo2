@@ -1,4 +1,3 @@
-
 /**
  * The text could use some tweaks.
  */
@@ -7,7 +6,12 @@
   font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 
-.md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6 {
   display: inline-block;
   color: #ddd;
   border-bottom: 1px solid #ccc;
@@ -18,16 +22,25 @@
   margin: 5px 0;
 }
 
-.md h1, .md h2, .md h3, .md h4, .md h5, .md h6, .md ul, .md p {
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6,
+.md ul,
+.md p {
   margin: 0px;
 }
 
 /**
  * That's better.
  *
- * If you want to contact me, use the PGP keys on the left.
- *
- * You know, if you're into that sort of thing.
+ * If you want to contact me, use the PGP keys on the left 
+ * and leave me a message. 
+ * 
+ * A response will be populated on the telegram chat 
+ * every 24 hours.
  */
 
 #pgp-text {

@@ -1,49 +1,63 @@
-STRML.net
-=========
+Enigma
+======
 
-Samuel Reed
-Co-Founder, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+EnigmaOpsec
+Co-Founder, Secret Exchange
+Full-Stack / NodeJS / DevOps / Crypto enthusiast / Opsec
+
+In the spirit of the digital age, I stand, embraced by the essence of freedom and the shadows of anonymity. The power to speak, to express without the chains of identity, is not merely a choice but a necessity. In the echoes of Satoshi's silence, we find strength. Imagine the turmoil, the unending pursuit that would ensue if the mask were to fall. For this reason, like the enigmatic creator of Bitcoin, I choose the veil of secrecy until the time is ripe for revelation.
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
-* STRML#7665 on Discord
+* @https://t.me/EnigmaOpsec on Telegram
+* More places to connect and explore will be added in the future. Stay tuned!
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+* Bitcoin Documentation: https://bitcoin.org/en/developer-documentation
+* Ethereum Documentation: https://ethereum.org/en/developers/docs/
+* Solana Documentation: https://docs.solana.com/
 
-Open Source
------------
+Assets to protect wealth against monetary inflation
+---------------------------------------------------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+* Ethereum
+* Solana
+* Bitcoin
+* More to come in the future ...
 
-Photos
-------
+Ventures in the Shadows
+------------------------
 
-* [Party Rock is in the hou](/img/partyrock1.jpg)
-  * [se tonight](/img/partyrock2.jpg)
+* In the annals of crypto history, a pivotal moment stands as a beacon for our endeavors.
+* The genesis of Bitcoin, captured in the code at @https://sourceforge.net/p/bitcoin/code/133/tree/trunk/main.cpp#l1613,
+* serves as a testament to the power of decentralized finance and the spirit of liberty that fuels our journey through the shadows.
+* In the footsteps of pioneers like Ross Ulbricht, we tread carefully,
+* embracing the ethos of the Silk Road, not as a path of defiance,
+* but as a journey towards enlightenment and freedom.
+* 29052025 = 240151 =
+
+* In the heart of a forgotten village, nestled between the whispers of the ancient trees and the sighs of the winding river,
+* there lived a fortune teller known only as Mirai.
+* Unlike any other seer of his time, Mirai's oracle was not the stars nor the cards, but grains of rice.
+* With each grain, he wove tales of futures untold, destinies uncharted, and fortunes waiting to be discovered.
+* Mirai's abode was a testament to the simplicity and purity of his art.
+* A humble cottage, with walls adorned with hanging scrolls of rice paper, each inscribed with the fates of those who sought his wisdom.
+* The air was always filled with the scent of jasmine, and the soft rustling of rice grains as they danced in his hands,
+* whispering secrets only he could decipher.
+* Legend has it that Mirai's gift was bestowed upon him by the spirits of the earth, in gratitude for his kindness and his deep respect for nature.
+* He treated each grain of rice as a precious gem, a vessel of the earth's knowledge and generosity.
+* His predictions, always delivered with compassion and insight, guided many to their destinies,
+* brought solace to troubled souls, and unveiled paths to prosperity and happiness.
+* Yet, as the years passed, the world outside the village transformed.
+* The whispers of the ancient trees were drowned out by the clamor of progress,
+* the sighs of the river lost amidst the hustle and bustle of modern life.
+* The path to Mirai's cottage became overgrown, his name faded from memory,
+* and the art of rice divination was forgotten.
+* Today, only the wind remembers the fortune teller who spoke the language of the grains.
+* It carries his legacy, a gentle reminder of the wisdom that lies in the simplicity of nature
+* and the forgotten arts that once connected us to the earth and to each other.
+* Mirai's story, a tale of magic, mystery, and the timeless dance of fate, continues to echo,
+* waiting to be rediscovered by those who seek to remember.

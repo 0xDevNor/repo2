@@ -1,13 +1,13 @@
 {
-  "name": "strml.net",
+  "name": "website",
   "version": "0.0.1",
-  "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "webpack",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve --open",
-    "watch": "webpack --progress --watch"
+    "watch": "webpack --progress --watch",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
   "license": "MIT",
@@ -25,7 +25,8 @@
     "raw-loader": "^4.0.2",
     "webpack": "^5.36.2",
     "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.2",
+    "gh-pages": "^3.1.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.14.0",
@@ -34,5 +35,13 @@
     "markdown": "^0.5.0",
     "mouse-wheel": "^1.0.2",
     "util": "^0.12.3"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "description": ""
 }

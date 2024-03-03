@@ -1,15 +1,17 @@
 /**
  *
- * Hey. My name's Samuel Reed. I'm a co-founder of BitMEX and frequent
- * open source contributor.
- *
- * I build interactive websites.
- *
- * How about some live coding?
+ * Welcome to the adventure. You may have found this site by chance, or maybe you were led here. 
+ * Hidden within this site are clues to a treasure, a treasure of immeasurable worth. 
+ * Riches are not guaranteed, but for those who recognize its true value, the reward will be clear.
+ * 
+ * Our journey begins with a riddle, the first step of this captivating quest. 
+ * The road ahead is challenging, but the prize awaits those who dare to seek beyond the usual.
+ * 
+ * I am a co-founder of a notable exchange, but that's the only hint for now. 
+ * The quest for something of great value starts here.
  */
-
 /**
- * Let's begin. We start by animating... well, everything.
+ * The adventure commences. We kick off by animating... essentially, everything.
  */
 
 * {
@@ -17,10 +19,10 @@
 }
 
 /**
- * That didn't do much. But you'll see.
+ * That was subtle. But just wait.
  *
- * Black on white is really boring,
- * so let's do something about it.
+ * The stark black on white is dull,
+ * so let's spice things up a bit.
  */
 
 html {
@@ -28,19 +30,20 @@ html {
 }
 
 /***
- * Hold on...
+ * Just a moment...
  */
 
-pre, a {
+pre,
+a {
   color: white;
 }
 
 /**
- * That's better. Sorry about your eyes.
+ * Much better. Apologies for the strain on your eyes.
  *
- * Working in this big empty space is tough.
+ * Navigating this vast void is daunting.
  *
- * I'm going to make a nice area for us to work in.
+ * I'll create a cozy space for us to collaborate.
  */
 
 pre:not(:empty) {
@@ -52,15 +55,15 @@ pre:not(:empty) {
   font-size: 14px;
   font-family: monospace;
   padding: 1vh 0.5vw;
-  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  box-shadow: -4px 4px 2px 0 rgba(0, 0, 0, 0.3);
   white-space: pre-wrap;
   outline: 0;
   margin: 1vh 0.5vw;
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * Alright. Time to populate the screen.
+ * Prepare to dive into some work.
  */
 
 #style-text {
@@ -69,20 +72,38 @@ pre:not(:empty) {
 }
 
 /**
- * This is good, but all the text is white!
- * Let's make it even more readable.
+ * This is good, but the text is all white!
+ * Let's enhance readability.
  */
 
-.comment       { color: #857F6B; font-style: italic; }
-.selector      { color: #E69F0F; }
-.selector .key { color: #64D5EA; }
-.key           { color: #64D5EA; }
-.value         { color: #BE84F2; }
-.value.px      { color: #F92772; }
+.comment {
+  color: #857F6B;
+  font-style: italic;
+}
+
+.selector {
+  color: #E69F0F;
+}
+
+.selector .key {
+  color: #64D5EA;
+}
+
+.key {
+  color: #64D5EA;
+}
+
+.value {
+  color: #BE84F2;
+}
+
+.value.px {
+  color: #F92772;
+}
 
 /**
- * Now we're getting somewhere.
- * Time to get a little perspective.
+ * Now we're making progress.
+ * Let's add some depth.
  */
 
 body {
@@ -96,8 +117,8 @@ body {
 }
 
 /**
- * So, let's talk projects. That's why you're here, right?
- * I can't imagine you'd come just to see the pretty colors.
+ * So, you're here for the Treasure, right?
+ * I doubt you came just for the aesthetics.
  */
 
 pre:not(#style-text) {

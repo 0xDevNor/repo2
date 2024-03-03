@@ -1,47 +1,30 @@
-
 /**
  * We're almost done.
  */
 
- pre:hover{
-   box-shadow: 0px 0px 40px 5px rgba(255,255,255,0.4);
- }
+pre:hover {
+  box-shadow: 0px 0px 40px 5px rgba(255, 255, 255, 0.4);
+}
 
- #skip-animation, #pause-resume {
-   display: none;
- }
+#skip-animation,
+#pause-resume {
+  display: none;
+}
 
 /**
  * I hope you enjoyed this.
  *
- * Thanks to Jake Albaugh, who was the first (that I know of) to do
- * a page like this. Some of the autotyping and syntax highlighting
- * code is based off his work.
+ * By the way, you have permission to break this page. 
  *
- * See more of Jake's work at http://codepen.io/jakealbaugh/
+ * 
  */
-
-/**
- * By the way, you can edit this box. Try adding new CSS!
- *
- * For example,
- *
- * The property 'text-shadow' takes the parameters:
- * 'x', 'y', 'blur', 'color'.
- *
- * So if I wanted to mirror the values,
- * I could place a shadow 15px under it,
- * with a little blur for effect:
- */
-
 .value {
   text-shadow: 0px 15px 1px white;
 }
 
 /**
- * Try it out! There's lots you can do.
- * Try playing with text sizes, shadows, animations, or just
- * break the page. I won't hold it against you.
+ * The journey doesn't end here. The canvas of the web is vast and forgiving.
+ * Experiment with text sizes, cast shadows to bring depth, animate elements to breathe life,
+ * or dare to disrupt the norm. Fear not the outcome, for every mistake is a lesson learned.
+ * Let your creativity flow, unjudged and unrestrained.
  */
-
-
