@@ -1,0 +1,88 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+A Telegram group & "@EnigmaOpsec", serves as a primary channel for communication and updates. However, due to external pressures and unforeseen circumstances, there may arise a need to establish new channels. This website is designed to be a constant, enduring platform to ensure you always have access to verified information directly from our team.
+
+To guarantee the authenticity of our communications, we utilize PGP (Pretty Good Privacy) encryption. PGP is a data encryption and decryption program that provides cryptographic privacy and authentication for data communication. Here's a simplified explanation of how it works:
+
+1. **Generate a PGP Key Pair**: Every user has a pair of keys - a public key and a private key. The public key is shared with others to encrypt messages for you, while the private key is kept secret and used to decrypt messages sent to you.
+
+2. **Encrypting Messages**: When someone wants to send you a secure message, they use your public key to encrypt the message. Once a message is encrypted with your public key, it can only be decrypted with your corresponding private key.
+
+3. **Signing Messages**: To prove that a message genuinely comes from you, you can 'sign' it with your private key. Others can use your public key to verify the signature, confirming the message hasn't been altered and that it indeed comes from you.
+
+4. **Decrypting Messages**: When you receive an encrypted message, you use your private key to decrypt it. If you have the sender's public key, you can also verify if the message was signed, ensuring its authenticity.
+
+Here is my PGP public key, which you can use to securely communicate with me or verify my messages:
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEKhOKkQoI5sIDhZbW6EdnFuFGHFIFAmXkXJoACgkQ6EdnFuFG
+HFL7Cw/+LvRECLhmvUXnTfqXRStFuccAxPTZnFUOxJ0lNIxwAVWWYubNpfdrcTZI
+GI1c8vX7O3uUpAcM6H+tqLmRK5RLqT/pbG3PR8nJu4WkytRujnixNlgSIEuc02wg
+FGxiCIV2XTfYVHXawfSK/Agyyr3BYqF9e2Tga2VSHxktwQHenYUfVDHKwgWkPevs
+ki4h8x0BDniL9tMEuN39xCXvtLk6qTLg1zkK2Sy/pujbJJmsWTiFs1afGoQrguxi
+0bKptxIWXBRnvHt7op6iJvfGrKo/80VRPzip6uVEoBsDbQrokJsRFRmPHM2wRgVS
+EraAnEfqs3snlt2HPbbO3VThe/OuN8smSclMGCajVpT/1YcL6nZBo6qWJXSMmnvo
+uDMoTwCC++2yGc9fv3iQui68tyM3oqnKcoHIet6gxxVYt5AaYebovUth7+ASMi6j
+Jkk/YKaERys69k5W2wH/DhSIVFJ2fjxLVwu8mErMhTebEkrIx6+CXLpAVRCkr+9M
+nwqV4KrarVy7j/ov8gYVkO3gKt8qRheMGbXIVLzPNM+RaUxwfrWAbRT/oc+CAKfR
+IFBtTCNzPh5NMZsA4vqYvZ55sMgN8IDhLLg5o5gPjvULSpRVEp3q6ERDokwZWP+Y
+TnCDyw1tGK3/BLWPXGG1KLOsOzIhs2Fj1DtZdlYxlibrw19IuIs=
+=zbWF
+-----END PGP SIGNATURE-----
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+YxrkFtm3E/uN
+=ui3y
+-----END PGP PUBLIC KEY BLOCK-----
+
+

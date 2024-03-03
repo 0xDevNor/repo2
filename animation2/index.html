@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sigma Mode</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <label for="colorPicker">Choose Raindrop Color:</label>
+    <input type="color" id="colorPicker" name="colorPicker" value="#ffffff"> <!-- Default color is white -->
+    <canvas id="animationCanvas"></canvas>
+    <script src="script.js"></script>
+    <script>
+        // Listen for color picker changes
+        document.getElementById('colorPicker').addEventListener('change', function () {
+            // Dispatch a custom event with the new color value
+            const colorChangeEvent = new CustomEvent('colorChange', { detail: { color: this.value } });
+            document.dispatchEvent(colorChangeEvent);
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+/**
+ * We're almost done.
+ */
+
+pre:hover {
+  box-shadow: 0px 0px 40px 5px rgba(255, 255, 255, 0.4);
+}
+
+#skip-animation,
+#pause-resume {
+  display: none;
+}
+
+/**
+ * I hope you enjoyed this.
+ *
+ * By the way, you have permission to break this page. 
+ *
+ * 
+ */
+.value {
+  text-shadow: 0px 15px 1px white;
+}
+
+/**
+ * The journey doesn't end here. The canvas of the web is vast and forgiving.
+ * Experiment with text sizes, cast shadows to bring depth, animate elements to breathe life,
+ * or dare to disrupt the norm. Fear not the outcome, for every mistake is a lesson learned.
+ * Let your creativity flow, unjudged and unrestrained.
+ */
